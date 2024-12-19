@@ -49,9 +49,9 @@ Together, these repositories form a cohesive value stream that enhances the Coll
 
 ## GitHub Stats
 
-![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxpowis-bp&show_icons=true&theme=dark)
+*Note: Those stats don't include the several internal organization repositories I manage and contribute to!*
 
-## Top Languages
+![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxpowis-bp&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxpowis-bp&layout=compact&theme=dark)
 
