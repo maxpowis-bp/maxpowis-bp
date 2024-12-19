@@ -58,6 +58,5 @@ Together, these repositories form a cohesive value stream that enhances the Coll
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/maxpowis)
-- [Twitter](https://twitter.com/maxpowis)
 
 Thanks for visiting my profile! Feel free to check out my repositories and reach out if you want to collaborate or chat.
