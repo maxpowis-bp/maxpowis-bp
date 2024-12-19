@@ -12,6 +12,23 @@ I have a deep interest in delivering highly efficient and modular solutions that
 - 💬 Feel free to ask me about data governance, data integration, data modeling, and advanced analytics.
 - 📫 You can reach me at: [ce-maximilien.powis@bearingpoint.com](mailto:ce-maximilien.powis@bearingpoint.com)
 
+## Main Technologies I Work With
+
+Here are some of the key technologies and tools I frequently use in my projects:
+
+| **Category**            | **Technologies**                                                                                                                                                                        |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Data Governance**     | ![Collibra](https://img.shields.io/badge/-Collibra-1A1A1A?logo=collibra&logoColor=white) ![Azure Purview](https://img.shields.io/badge/-Azure%20Purview-0078D4?logo=azure-pipelines&logoColor=white) |
+| **Data Integration**    | ![Apache Atlas](https://img.shields.io/badge/-Apache%20Atlas-D22128?logo=apache&logoColor=white) ![dbt Cloud](https://img.shields.io/badge/-dbt%20Cloud-FF694B?logo=dbt&logoColor=white) ![Fivetran](https://img.shields.io/badge/-Fivetran-0077C0?logo=fivetran&logoColor=white) |
+| **Data Modeling**       | ![Data Vault](https://img.shields.io/badge/-Data%20Vault-0066CC?logo=data-vault&logoColor=white) ![Dimensional Modeling](https://img.shields.io/badge/-Dimensional%20Modeling-FFD700?logo=data-dimension&logoColor=black) ![Unified Star Schema](https://img.shields.io/badge/-Unified%20Star%20Schema-FF4500?logo=data-star&logoColor=white) |
+| **Data Platforms**      | ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white) ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-4285F4?logo=google-cloud&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white) |
+| **Data Visualization**  | ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=black) ![QlikSense](https://img.shields.io/badge/-QlikSense-007DB8?logo=qlik&logoColor=white) ![Business Objects](https://img.shields.io/badge/-Business%20Objects-3498DB?logo=sap&logoColor=white) |
+| **Programming & Scripting** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) |
+| **API & Integration**   | ![REST](https://img.shields.io/badge/-REST-005C97?logo=api&logoColor=white) ![SOAP](https://img.shields.io/badge/-SOAP-0C457D?logo=soap&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
+| **Version Control & CI/CD** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+| **IDEs & Tools**        | ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=white) |
+
+
 ## My Approach to System Thinking for Collibra implementations
 
 At BearingPoint, I focus on integrating system thinking into my work to build efficient, scalable, and cohesive solutions. The Collibra ecosystem plays a crucial role in data governance and management, and the repositories I maintain are designed to streamline and enhance integration and automation processes, providing significant value to our users.
