@@ -64,14 +64,6 @@ The [collibra-workflows-template](https://github.com/bearingpoint/collibra-workf
 
 Together, these repositories form a cohesive value stream that enhances the Collibra ecosystem, driving efficiency, consistency, and reliability in data governance and management. My personal focus on system thinking ensures that each component works seamlessly within the larger system, delivering maximum value.
 
-## GitHub Stats
-
-*Note: Those stats don't include the several internal organization repositories I manage and contribute to!*
-
-![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxpowis-bp&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxpowis-bp&layout=compact&theme=dark)
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/maxpowis)
